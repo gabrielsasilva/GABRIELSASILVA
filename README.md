@@ -28,14 +28,15 @@
 ╚══════════════════════════════════════════════════════╝
 ```
 
-## Sobre Mim
+## 👨‍💻 Sobre Mim
 
-Sou estudante de **Engenharia de Software**, com foco em desenvolvimento **Backend**, automação e construção de sistemas.
+Sou estudante de Engenharia de Software, com foco em desenvolvimento Backend, automação e construção de sistemas.
 
-Tenho interesse em transformar problemas reais em soluções através da tecnologia, buscando evoluir constantemente em programação, arquitetura de software, bancos de dados e desenvolvimento de aplicações.
+Tenho interesse em transformar problemas reais em soluções através da tecnologia, buscando evoluir constantemente em programação, desenvolvimento de aplicações e engenharia de software.
 
-Atualmente estou aprofundando meus conhecimentos em **Python, Java, SQL e desenvolvimento de sistemas**, enquanto construo projetos para colocar esses conceitos em prática.
+Atualmente possuo conhecimentos em Python e estou aprendendo Java e JavaScript, colocando meus conhecimentos em prática através de projetos e estudos.
 
+MISSION: Learn → Build → Improve → Repeat
 ```text
 MISSION: Learn → Build → Improve → Repeat
 ```
@@ -54,13 +55,13 @@ MISSION: Learn → Build → Improve → Repeat
 
 ### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=flask,nodejs,mysql,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flask,mysql&theme=dark" />
 
 <br><br>
 
 ### Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=github,vscode&theme=dark" />
 
 </div>
 
@@ -71,13 +72,11 @@ MISSION: Learn → Build → Improve → Repeat
 <div align="center">
 
 <img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
 <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
-<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
 <img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57" />
+
 
 </div>
 
@@ -101,7 +100,7 @@ MISSION: Learn → Build → Improve → Repeat
 
 | Projeto                           | Descrição                                                                                                      | Tecnologias             |
 | --------------------------------- | -------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| **Sistema de Controle de Vendas** | Sistema para gerenciamento de produtos, vendas, cálculos, descontos e geração de notas fiscais.                | Python                  |
+
 | **Engenharia News**               | Portal de notícias desenvolvido para informar estudantes, com área administrativa e gerenciamento de conteúdo. | Python · Flask · SQLite |
 | **Controle de Mercado**           | Aplicação para cadastro, consulta, alteração e exclusão de produtos e operações de venda.                      | Python · TXT            |
 
