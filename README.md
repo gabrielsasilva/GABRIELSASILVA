@@ -158,25 +158,6 @@ gabriel@system:~$ ./current_objectives.sh
 
 ---
 
-# `> achievements`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gabrielsasilva&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2" />
-
-</div>
-
----
-
-# `> contribution_matrix`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/gabrielsasilva/gabrielsasilva/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
 
 # `> connect`
 
