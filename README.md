@@ -102,6 +102,7 @@ MISSION: Learn → Build → Improve → Repeat
 | --------------------------------- | -------------------------------------------------------------------------------------------------------------- | ----------------------- |
 
 | **Engenharia News**               | Portal de notícias desenvolvido para informar estudantes, com área administrativa e gerenciamento de conteúdo. | Python · Flask · SQLite |
+
 | **Controle de Mercado**           | Aplicação para cadastro, consulta, alteração e exclusão de produtos e operações de venda.                      | Python · TXT            |
 
 ---
